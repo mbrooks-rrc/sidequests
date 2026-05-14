@@ -1,6 +1,6 @@
 :root {
   --body-font: 'dm-sans-18pt', 'Times New Roman', serif;
   --header-font: 'redaction-35', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-   --page-col: #111;
-   --text-col: white;
+  --page-col: #111;
+  --text-col: white;
 }
